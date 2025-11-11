@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Data Cleaner</title>
+</head>
+
+<body>
+    <h1>Upload CSV to Clean</h1>
+    <form action="/api/clean" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".csv" required>
+        <button type="submit">Submit & Clean</button>
+    </form>
+</body>
+
+</html>
