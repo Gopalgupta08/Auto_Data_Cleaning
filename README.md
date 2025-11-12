@@ -32,3 +32,6 @@ Benefits:
 
 # Summary
 We explored how to automate data cleaning using Python by building a reusable function with Pandas and NumPy. This function helps standardize column names, remove duplicates, clean text, handle missing values (even hidden ones), detect outliers, flag constant and high-cardinality columns, and prepare text data for modelling, all while logging each step.
+
+# My Simple Web UI 
+<img width="3590" height="1271" alt="Screenshot 2025-11-12 102101" src="https://github.com/user-attachments/assets/62abde84-14af-415b-bce9-8838aca4b3d0" />
